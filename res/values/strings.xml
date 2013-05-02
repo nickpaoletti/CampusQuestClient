@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CQ2</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="location">Find Location</string>
+    <string name="ajay">Ajay Kongara</string>
+    <string-array name="stringarray">
+        <item >Ajay Kongara</item>
+    </string-array>
+        <string name="selectplayer">Select a Player</string>
+
+</resources>
